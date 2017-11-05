@@ -8,3 +8,4 @@ console.log(deterministic(15));
 console.log(multiplier);
 console.log(deterministic(20));
 console.log(multiplier);
+//simple github
